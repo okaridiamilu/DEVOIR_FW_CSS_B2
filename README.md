@@ -2,35 +2,21 @@
 
 Portfolio personnel single-page moderne et responsive, développé avec Bootstrap 5 et JavaScript vanilla.
 
-## 🚀 Technologies utilisées
+page du figma d'origine : https://www.figma.com/make/3qHgdahPiImzVyLyygbnM9/Professional-Portfolio-Website?node-id=0-1&p=f&t=uyBDOBrSx2Z8cJC8-0&fullscreen=1
 
+## Technologies utilisées
 - **HTML5** - Structure sémantique
 - **CSS3** - Styles personnalisés avec variables CSS
 - **Bootstrap 5.3.2** - Framework CSS (via CDN)
 - **Bootstrap Icons** - Bibliothèque d'icônes (via CDN)
-- **JavaScript Vanilla** - Interactions sans framework
+- **JavaScript Vanilla** - Interactions classiques
+ 
+## Fonctionnalités
+- Design responsive (mobile-first)
+- Navigation avec menu hamburger
+- Effets hover personnalisés (petit bonus du figma)
 
-## 📁 Structure du projet
-
-```
-├── portfolio.html    # Page principale (HTML)
-├── styles.css        # Styles personnalisés (max 200 lignes)
-├── script.js         # JavaScript vanilla
-└── README.md         # Documentation
-```
-
-## ✨ Fonctionnalités
-
-- ✅ Design responsive (mobile-first)
-- ✅ Navigation avec menu hamburger
-- ✅ Smooth scroll entre les sections
-- ✅ Effets hover personnalisés
-- ✅ Palette de couleurs cyan/purple/pink
-- ✅ Formulaire de contact fonctionnel
-- ✅ Animation du cœur dans le footer
-- ✅ Année dynamique dans le copyright
-
-## 🌐 Déploiement
+## Déploiement
 
 ### Option 1 : Ouvrir localement
 Ouvrez simplement `portfolio.html` dans votre navigateur.
