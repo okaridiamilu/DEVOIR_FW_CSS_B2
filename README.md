@@ -32,3 +32,6 @@ git push -u origin main
 ```
 ### Option 3 : lien internet
 monportfolioamoi.free.nf
+
+![image1](image1.png)
+![image2](image2.png)
